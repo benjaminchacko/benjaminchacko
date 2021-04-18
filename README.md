@@ -15,17 +15,21 @@
 ### Languages:
 * React JS
 * Next JS
+* Gatsby
 * Vue
 * Python
 * Angular
 * Express
+* Nuxt JS
+* GraphQL
 
 ### Tools:
 * NPM
+* Yarn
 * Visual Studio Code
 * MongoDB
 * FaunaDB
-* Docker (Newbie)
+* Docker (Newbie 😂)
 
 Deployment Platforms:
 * Vercel
