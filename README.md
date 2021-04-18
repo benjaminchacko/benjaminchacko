@@ -39,7 +39,6 @@ Deployment Platforms:
 * Cloudflare Pages
 
 <br />
-<br />
 
 ### My Recent Projects
 * Vue Router
