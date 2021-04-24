@@ -50,6 +50,9 @@ Deployment Platforms:
 * React Custom Hook - useWindowSize
   + Live Demo: <a href="http://react-responsive-hook.netlify.com/" target="_blank">Link </a>
   + Github Repo: <a href="https://github.com/benjaminchacko/react-parcel-custom-hook">Link</a>
+* Svelte Animation Project
+  + Live Demo <a href="https://svelte-animation-project.vercel.app/" target="_blank">Link </a> 
+  + Github Repo: <a href="https://github.com/benjaminchacko/svelte-animation-project">Link</a>
 
 
 <!-- ### 📕 Latest Blog Posts -->
