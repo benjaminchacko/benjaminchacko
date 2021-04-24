@@ -1,11 +1,11 @@
 ### Hi there I'm Benjamin Chacko👋
 
-### I'm a Ad Operations Coordinator @ Comcast Effectv, Future DevOps Engineer, and Freelance React/Next JS Tutor
+### I'm a Ad Operations - Traffic Fulfillment Coordinator @ Comcast Effectv, Future DevOps Engineer, and Freelance React/Next JS Tutor
 
-- 🔭 I’m currently working on NextJS, React and Vue projects
+- 🔭 I’m currently working on NextJS, React and Svelte projects
 - 🌱 I’m currently learning Python and Vue
 - 👯 I’m looking to collaborate on any Next JS project
-- 🤔 I’m looking for help with becoming an expert in Docker and Kubernetes
+- 🤔 I’m looking for help with increasing my knowledge in Docker, Kubernetes, Graphql & Svelte
 - 💬 Ask me about React and Next JS 
 - ⚡ Fun fact: Huge fan of Marvel Movies (seen every MCU movie), favorite superhero is Rocket Raccoon 🦝
 - 📫 How to reach me: 
@@ -15,6 +15,7 @@
 ### Languages:
 * React JS
 * Next JS
+* Svelte
 * Gatsby
 * Vue
 * Python
@@ -22,14 +23,16 @@
 * Express
 * Nuxt JS
 * GraphQL
+* FQL
 
 ### Tools:
 * NPM
 * Yarn
 * Visual Studio Code
+* Postman
 * MongoDB
 * FaunaDB
-* Docker (Newbie 😂)
+* Docker
 
 Deployment Platforms:
 * Vercel
