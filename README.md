@@ -1,5 +1,4 @@
 ### Hi there I'm Benjamin Chacko👋
-![GitHub followers](https://img.shields.io/github/followers/benjaminchacko?style=social)
 
 ### I'm a Ad Operations - Traffic Fulfillment Coordinator @ Comcast Effectv, Future DevOps Engineer, and Freelance React/Next JS Tutor
 
