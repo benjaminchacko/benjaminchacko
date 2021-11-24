@@ -7,7 +7,7 @@
 - 👯 I’m willing to collaborate on any Next.js project
 - 🤔 I’m looking for help with increasing my knowledge in Docker, Kubernetes and Graphql
 - 💬 Ask me about React and Next JS 
-- ⚡ Fun fact: Huge fan of Marvel Movies (seen every MCU movie ... up to Shang Chi and the Legend of the Ten Rings), favorite superhero is Rocket Raccoon 🦝
+- ⚡ Fun fact: Huge fan of Marvel Movies (seen every MCU movie ... up to Shang Chi and the Legend of the Ten Rings), favorite MCU character is Rocket Raccoon 🦝
 - 📫 How to reach me: email me
 <a href="mailto:benjaminchacko@outlook.com" target="_blank"> @ benjaminchacko@outlook.com</a> and
 connect with me on Linkedin <a href="https://www.linkedin.com/in/benjamin-chacko-58125060">here</a>!
