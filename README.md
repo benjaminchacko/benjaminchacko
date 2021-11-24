@@ -1,15 +1,16 @@
 ### Hi there I'm Benjamin Chacko👋
 
-### I'm a Ad Operations - Traffic Fulfillment Coordinator @ Comcast Effectv, Future DevOps Engineer, and Freelance React/Next JS Tutor
+### I'm a Ad Operations - Traffic Fulfillment Coordinator @ Comcast Effectv and I'm passionate about React and DevOps
 
 - 🔭 I’m currently working on NextJS, React and Svelte projects
 - 🌱 I’m currently learning Python and Vue
 - 👯 I’m looking to collaborate on any Next JS project
 - 🤔 I’m looking for help with increasing my knowledge in Docker, Kubernetes, Graphql & Svelte
 - 💬 Ask me about React and Next JS 
-- ⚡ Fun fact: Huge fan of Marvel Movies (seen every MCU movie), favorite superhero is Rocket Raccoon 🦝
+- ⚡ Fun fact: Huge fan of Marvel Movies (seen every MCU movie ... up to Shang Chi), favorite superhero is Rocket Raccoon 🦝
 - 📫 How to reach me: 
 <a href="mailto:benjaminchacko@outlook.com" target="_blank">email me @ benjaminchacko@outlook.com</a>
+connect with me on Linkedin <a href="https://www.linkedin.com/in/benjamin-chacko-58125060">here</a>!
 
 
 ### Languages:
