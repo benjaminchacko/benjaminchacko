@@ -49,12 +49,12 @@ Deployment Platforms:
 <br />
 
 ### My Recent Projects
+* Rock, Paper, Scissors, Lizard, Spock game in vanilla JS
+  + Live Demo: <a href="https://codesandbox.io/s/rpsls-vanilla-js-lgn5e" target="_blank">Link </a>
+  + Github Repo: <a href="https://github.com/benjaminchacko/rpsls-vanilla-js">Link</a>
 * Vue Router
   + Live Demo: <a href="http://vue-router-benjaminchacko.vercel.app/" target="_blank">Link </a>
   + Github Repo: <a href="https://github.com/benjaminchacko/vue-router">Link</a>
-* React Counter with Hooks
-  + Live Demo: <a href="https://codesandbox.io/s/github/benjaminchacko/React-Counter-App" target="_blank">Link </a>
-  + Github Repo: <a href="https://github.com/benjaminchacko/React-Counter-App">Link</a>
 * React Custom Hook - useWindowSize
   + Live Demo: <a href="http://react-responsive-hook.netlify.com/" target="_blank">Link </a>
   + Github Repo: <a href="https://github.com/benjaminchacko/react-parcel-custom-hook">Link</a>
