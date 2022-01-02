@@ -5,9 +5,9 @@
 - 🔭 I’m currently working on Next.js, Sveltekit and Express.js projects
 - 🌱 I’m currently learning Typescript, Python, Vue 
 - 👯 I’m willing to collaborate on any Next.js project
-- 🤔 I’m looking for help with increasing my knowledge in Docker, Kubernetes and Graphql
+- 🤔 I’m looking for help with increasing my knowledge in Socket.io and Graphql
 - 💬 Ask me about React and Next.js
-- ⚡ Fun fact: Huge fan of Marvel Movies (seen every MCU movie ... up to Shang Chi and the Legend of the Ten Rings), favorite MCU character is Rocket Raccoon 🦝
+- ⚡ Fun fact: Huge fan of Marvel Movies (seen every MCU movie ... up to Spider-Man: No Way Home), favorite MCU character is Rocket Raccoon 🦝
 - 📫 How to reach me: email me @
 <a href="mailto:benjaminchacko@outlook.com" target="_blank">benjaminchacko@outlook.com</a> and
 connect with me on Linkedin <a href="https://www.linkedin.com/in/benjamin-chacko-58125060">here</a>!
