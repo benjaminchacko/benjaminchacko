@@ -50,7 +50,7 @@ Deployment Platforms:
 
 ### My Recent Projects
 * Winter Olympics Quiz App built with React JS and Vite build tool
-  + Live Demo: <a href="https://2022-winter-olympics.netlify.app" target="_blank">Link </a>
+  + Live Demo: <a href="https://2022-olympics-quiz.netlify.app/" target="_blank">Link </a>
   + Github Repo: <a href="https://github.com/benjaminchacko/rpsls-vanilla-js">Link</a>
 * Rock, Paper, Scissors, Lizard, Spock game in vanilla JS
   + Live Demo: <a href="https://codesandbox.io/s/rpsls-vanilla-js-lgn5e" target="_blank">Link</a>
