@@ -1,9 +1,9 @@
 ### Hi there I'm Benjamin Chacko👋
 
-### I'm a Ad Operations - Traffic Fulfillment Coordinator @ Comcast Effectv and I'm passionate about React and DevOps
+### I'm an Advertising Operations II Coordinator @ Comcast Effectv and I'm passionate about React and DevOps
 
-- 🔭 I’m currently working on Next.js, Sveltekit and Express.js projects
-- 🌱 I’m currently learning Typescript, Python, Vue 
+- 🔭 I’m currently working on Next.js, Gatsby and Express JS projects
+- 🌱 I’m currently learning Typescript, Sveltekit, Vue 
 - 👯 I’m willing to collaborate on any Next.js project
 - 🤔 I’m looking for help with increasing my knowledge in Socket.io and Graphql
 - 💬 Ask me about React and Next.js
@@ -34,6 +34,7 @@ connect with me on Linkedin <a href="https://www.linkedin.com/in/benjamin-chacko
 * Yarn
 * Visual Studio Code
 * Postman
+* Vite
 * MongoDB
 * FaunaDB
 * Google Firebase
@@ -51,16 +52,13 @@ Deployment Platforms:
 ### My Recent Projects
 * Winter Olympics Quiz App built with React JS and Vite build tool
   + Live Demo: <a href="https://2022-olympics-quiz.netlify.app/" target="_blank">Link </a>
-  + Github Repo: <a href="https://github.com/benjaminchacko/rpsls-vanilla-js">Link</a>
-* Rock, Paper, Scissors, Lizard, Spock game in vanilla JS
+  + Github Repo: <a href="https://github.com/benjaminchacko/react-quiz-app">Link</a>
+* Rock, Paper, Scissors, Lizard, Spock game in Vanilla JS
   + Live Demo: <a href="https://codesandbox.io/s/rpsls-vanilla-js-lgn5e" target="_blank">Link</a>
   + Github Repo: <a href="https://github.com/benjaminchacko/react-quiz-app">Link</a>
 * Vue Router
   + Live Demo: <a href="http://vue-router-benjaminchacko.vercel.app/" target="_blank">Link </a>
   + Github Repo: <a href="https://github.com/benjaminchacko/vue-router">Link</a>
-* Svelte Animation Project
-  + Live Demo <a href="https://svelte-animation-project.vercel.app/" target="_blank">Link </a> 
-  + Github Repo: <a href="https://github.com/benjaminchacko/svelte-animation-project">Link</a>
 
 
 <!-- ### 📕 Latest Blog Posts -->
