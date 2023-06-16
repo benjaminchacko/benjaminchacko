@@ -7,7 +7,7 @@
 - 👯 I’m willing to collaborate on any Next JS project
 - 🤔 I’m looking for help with increasing my knowledge in Socket.io and Graphql
 - 💬 Ask me about React and Next.js
-- ⚡ Fun fact: Huge fan of Marvel Movies (seen almost every MCU movie ... up to Guardians of Galaxy 3), favorite MCU character is Rocket Raccoon 🦝
+- ⚡ Fun fact: Huge fan of Marvel Movies (seen almost every MCU movie ... up to Guardians of Galaxy Vol. 3), favorite MCU character is Rocket Raccoon 🦝
 - 📫 How to reach me: email me @
 <a href="mailto:benjaminchacko@outlook.com" target="_blank">benjaminchacko@outlook.com</a> and
 connect with me on Linkedin <a href="https://www.linkedin.com/in/benjamin-chacko-58125060">here</a>!
