@@ -1,6 +1,6 @@
 ### Hi there I'm Benjamin Chacko👋
 
-### I'm a Senior Coordinator, Liaison @ Comcast Advertising and I'm passionate about React and DevOps
+### I'm a Senior Coordinator, Liaison @ Comcast Advertising. I'm passionate about React and DevOps
 
 - 🔭 I’m currently working on Next JS and Astro projects
 - 🌱 I’m currently learning Typescript, Next JS 15 (App Router), and Rust 
