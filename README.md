@@ -53,12 +53,12 @@ Deployment Platforms:
 <br />
 
 ### My Recent Projects
+* Contacts API built with Express JS
+  + Github Repo: <a href="https://github.com/benjaminchacko/express-contacts-app">Link</a>
 * Winter Olympics Quiz App built with React JS and Vite 
   + Live Demo: <a href="https://2022-olympics-quiz.netlify.app/" target="_blank">Link </a>
   + Github Repo: <a href="https://github.com/benjaminchacko/react-quiz-app">Link</a>
-* Vue Router
-  + Live Demo: <a href="http://vue-router-benjaminchacko.vercel.app/" target="_blank">Link </a>
-  + Github Repo: <a href="https://github.com/benjaminchacko/vue-router">Link</a>
+
 
 
 <!-- ### 📕 Latest Blog Posts -->
