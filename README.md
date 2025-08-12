@@ -1,10 +1,10 @@
 ### Hi there I'm Benjamin Chacko👋
 
-### I'm a Senior Coordinator, Liaison @ Comcast Advertising. I'm passionate about React and DevOps
+### I'm a Sr. Coordinator, Liaison @ Comcast Advertising. I'm passionate about React and DevOps.
 
-- 🔭 I’m currently working on Next JS and Astro projects
+- 🔭 I’m currently working on React JS and Astro projects
 - 🌱 I’m currently learning Typescript, Next JS 15 (App Router), and Rust 
-- 👯 I’m willing to collaborate on any Next JS project
+- 👯 I’m willing to collaborate on any React JS project
 - 🤔 I’m looking for help with increasing my knowledge in Socket.io and Graphql
 - 💬 Ask me about React and Next.js
 - ⚡ Fun fact: Huge fan of Marvel Movies (seen almost every MCU movie ... up to Thunderbolts), favorite MCU character is Rocket Raccoon 🦝
@@ -34,11 +34,13 @@ connect with me on Linkedin <a href="https://www.linkedin.com/in/benjamin-chacko
 * Yarn
 * PNPM
 * Visual Studio Code
+* Cursor
 * Postman
 * Vite
 * MongoDB
 * FaunaDB
 * Google Firebase
+* Convex
 * Docker
 
 Deployment Platforms:
@@ -51,7 +53,7 @@ Deployment Platforms:
 <br />
 
 ### My Recent Projects
-* Winter Olympics Quiz App built with React JS and Vite build tool
+* Winter Olympics Quiz App built with React JS and Vite 
   + Live Demo: <a href="https://2022-olympics-quiz.netlify.app/" target="_blank">Link </a>
   + Github Repo: <a href="https://github.com/benjaminchacko/react-quiz-app">Link</a>
 * Vue Router
