@@ -1,16 +1,16 @@
-### Hi there I'm Benjamin Chacko👋
+### Hi there I'm Benjamin T. Chacko👋
 
 ### I'm a Sr. Coordinator, Liaison @ Comcast Advertising. I'm passionate about React and DevOps.
 
-- 🔭 I’m currently working on React JS and Astro projects
-- 🌱 I’m currently learning Typescript, Next JS 15 (App Router), and Rust 
+- 🔭 I’m currently working on React JS projects and working on my [Google Data Analytics certificate](https://www.coursera.org/professional-certificates/google-data-analytics) 
+- 🌱 I’m currently learning Typescript, Next JS 16 (App Router), and Rust
 - 👯 I’m willing to collaborate on any React JS project
-- 🤔 I’m looking for help with increasing my knowledge in Socket.io and Graphql
+- 🤔 I’m looking for jobs in Full Stack Development or Data Analytics
 - 💬 Ask me about React and Next.js
 - ⚡ Fun fact: Huge fan of Marvel Movies (seen almost every MCU movie ... up to Thunderbolts), favorite MCU character is Rocket Raccoon 🦝
 - 📫 How to reach me: email me @
 <a href="mailto:benjaminchacko@outlook.com" target="_blank">benjaminchacko@outlook.com</a> and
-connect with me on Linkedin <a href="https://www.linkedin.com/in/benjamin-chacko-58125060">here</a>!
+connect with me on [Linkedin](https://www.linkedin.com/in/benjamin-chacko-58125060)!
 
 
 ### Languages:
@@ -42,6 +42,8 @@ connect with me on Linkedin <a href="https://www.linkedin.com/in/benjamin-chacko
 * Google Firebase
 * Convex
 * Docker
+* Google Antigravity
+* Claude AI
 
 Deployment Platforms:
 * Vercel
